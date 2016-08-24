@@ -1,0 +1,4 @@
+id name age address
+number string number string
+1 xiaohong 18 changping
+2 xiaoming 19 北京
